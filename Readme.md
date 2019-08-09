@@ -1,5 +1,5 @@
 # Password Validator
- Check a password with between 8-11 character and the characters contain at least two numeric digits and three special characters, three alphabetic characters. 
+ Check a password between 8-11 character and the characters contain at least two numeric digits and three special characters, three alphabetic characters. 
  
  ```python
  
